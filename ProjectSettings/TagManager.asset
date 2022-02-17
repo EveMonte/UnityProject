@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - arrowUp
+  - arrowDown
+  - ChairTrigger
+  - Room
+  - window
+  - VoltmeterVnRotatablePart
+  - AmpermeterRotatablePart
+  - MilliampermeterRotatablePart
+  - VoltmeterVaRotatablePart
+  - Reostat1MovablePart
+  - Reostat2MovablePart
+  - SourceRotatablePart
+  - Reostat2MovablePartTargetPoint
+  - Reostat1MovablePartTargetPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

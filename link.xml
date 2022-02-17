@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<linker>
+	<assembly fullname="Aspose">
+		<type fullname="Aspose.Cells" preserve="all"/>
+	</assembly>
+    	<assembly fullname="System">
+		<type fullname="System.Drawing.Common" preserve="all"/>
+	</assembly>
+    	<assembly fullname="System">
+		<type fullname="System.Runtime.CompilerServices.Unsafe" preserve="all"/>
+	</assembly>
+</linker>
